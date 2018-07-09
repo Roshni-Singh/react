@@ -1,0 +1,12 @@
+.listOfTodos {
+    font-size: small;
+}
+
+.currentTodo {
+    font-size: 1px;
+}
+
+button {
+    padding: 100px;
+}
+
